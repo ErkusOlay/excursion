@@ -7,7 +7,7 @@
 }
 h1 {
     font-size: 50px;
-    font-weight: normal;    
+    font-weight: normal; 
 }
 a.download {
     color: Aquamarine;
@@ -20,7 +20,6 @@ h2 {
 p {
     color: grey;
 }
-.footer {
-    text-align: right;
-    color: grey;
+.footer p {
+    text-align: right;   
 }
